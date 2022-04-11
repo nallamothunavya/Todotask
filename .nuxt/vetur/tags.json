@@ -1,0 +1,14 @@
+{
+  "Notifications": {
+    "description": "Auto imported from components/Notifications.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Task": {
+    "description": "Auto imported from components/Task.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  }
+}

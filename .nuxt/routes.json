@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Homepage",
+    "path": "/Homepage",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\Todos\\\\pages\\\\Homepage.vue",
+    "chunkName": "pages/Homepage"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\Todos\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
